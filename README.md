@@ -1,4 +1,5 @@
 ## BluetoothKit
+队列连接/串式调用
 
 #### BluetoothKit Instance
 ```BluetoothKit bluetoothKit = BluetoothKit.getInstance();```
